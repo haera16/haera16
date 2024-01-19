@@ -1,5 +1,6 @@
 - Hi, I’m Ashmita Singha
-- Pursuing a Bachelors in Technology, Computer Science
+- Currently pursuing a Bachelors in Technology, Computer Science
+- Studying in KIIT, Bhubaneswar
 - I’m interested in games, boba, books and music
 - I’m currently learning HTML/CSS and C
 - Email: ashmita.singha16.4@gmail.com
