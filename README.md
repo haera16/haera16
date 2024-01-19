@@ -1,4 +1,5 @@
-- Hi, I’m @haera16 and I also go by Ashmita.
+- Hi, I’m Ashmita Singha
+- Pursuing a Bachelors in Technology, Computer Science
 - I’m interested in games, boba, books and music
 - I’m currently learning HTML/CSS and C
 - Email: ashmita.singha16.4@gmail.com
